@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "Hash": "f2gO/GOR6PMD3fXm90cELwJ1Ps9FqwpDsAhuHtbAsQ4=",
-  "Source": "FireFly-Dotnet",
-  "BasePath": "_content/FireFly-Dotnet",
+  "Hash": "PvE6jsiUhmVpDZhlccoEgH1YsodmDZ6S+JC4xcjNOoo=",
+  "Source": "Calendar-Dotnet",
+  "BasePath": "_content/Calendar-Dotnet",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
   "Assets": [
     {
-      "Identity": "C:\\Users\\jmsmi\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "Identity": "C:\\Users\\thane\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\jmsmi\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\thane\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "AssetKind": "All",
@@ -25,13 +25,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jmsmi\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\thane\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\jmsmi\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js",
+      "Identity": "C:\\Users\\thane\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\jmsmi\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\thane\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "QuickGrid.razor.js",
       "AssetKind": "All",
@@ -44,15 +44,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jmsmi\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js"
+      "OriginalItemSpec": "C:\\Users\\thane\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.1\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\jmsmi\\source\\repos\\FireFly-Dotnet\\FireFly-Dotnet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FireFly-Dotnet.styles.css",
-      "SourceId": "FireFly-Dotnet",
+      "Identity": "D:\\T.web\\Calendar\\midtier-dotnet\\FireFly-Dotnet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Calendar-Dotnet.styles.css",
+      "SourceId": "Calendar-Dotnet",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jmsmi\\source\\repos\\FireFly-Dotnet\\FireFly-Dotnet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
-      "BasePath": "_content/FireFly-Dotnet",
-      "RelativePath": "FireFly-Dotnet.styles.css",
+      "ContentRoot": "D:\\T.web\\Calendar\\midtier-dotnet\\FireFly-Dotnet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Calendar-Dotnet",
+      "RelativePath": "Calendar-Dotnet.styles.css",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Primary",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jmsmi\\source\\repos\\FireFly-Dotnet\\FireFly-Dotnet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\FireFly-Dotnet.styles.css"
+      "OriginalItemSpec": "D:\\T.web\\Calendar\\midtier-dotnet\\FireFly-Dotnet\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Calendar-Dotnet.styles.css"
     }
   ]
 }

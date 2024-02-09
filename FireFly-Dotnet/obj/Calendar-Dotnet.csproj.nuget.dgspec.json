@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\T.web\\Calendar\\midtier-dotnet\\FireFly-Dotnet\\FireFly-Dotnet.csproj": {}
+    "D:\\T.web\\Calendar\\midtier-dotnet\\FireFly-Dotnet\\Calendar-Dotnet.csproj": {}
   },
   "projects": {
-    "D:\\T.web\\Calendar\\midtier-dotnet\\FireFly-Dotnet\\FireFly-Dotnet.csproj": {
+    "D:\\T.web\\Calendar\\midtier-dotnet\\FireFly-Dotnet\\Calendar-Dotnet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\T.web\\Calendar\\midtier-dotnet\\FireFly-Dotnet\\FireFly-Dotnet.csproj",
-        "projectName": "FireFly-Dotnet",
-        "projectPath": "D:\\T.web\\Calendar\\midtier-dotnet\\FireFly-Dotnet\\FireFly-Dotnet.csproj",
+        "projectUniqueName": "D:\\T.web\\Calendar\\midtier-dotnet\\FireFly-Dotnet\\Calendar-Dotnet.csproj",
+        "projectName": "Calendar-Dotnet",
+        "projectPath": "D:\\T.web\\Calendar\\midtier-dotnet\\FireFly-Dotnet\\Calendar-Dotnet.csproj",
         "packagesPath": "C:\\Users\\thane\\.nuget\\packages\\",
         "outputPath": "D:\\T.web\\Calendar\\midtier-dotnet\\FireFly-Dotnet\\obj\\",
         "projectStyle": "PackageReference",
